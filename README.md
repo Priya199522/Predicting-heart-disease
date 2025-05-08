@@ -1,10 +1,12 @@
 # Predicting-heart-disease
+• Collected a heart disease dataset from the web and performed data cleaning and preprocessing to ensure quality and consistency.
 
+• Conducted Exploratory Data Analysis (EDA) to understand key features and their relationship with heart disease risk using seaborn and matplotlib for visualization.
 
-• The dataset is collected from web.
-• The data was cleaned and processed and analysed before EDA.
-• Scikit learn, pandas, numpy, matplotlib and seaborn used for model building, 
-  analysis, predictive modelling and visualization.
-• For prediction purpose I have used three models SVM, Random Forest and 
-  Knearest Neighbors out of three Random Forest model gives highest accuracy 
-  with 82.1%.
+• Built and evaluated three different machine learning models for prediction:
+
+• Support Vector Machine (SVM)
+• Random Forest
+• K-Nearest Neighbors (KNN)
+
+• Among the models tested, the Random Forest model achieved the highest accuracy of 82.1% in predicting the presence of heart disease.
